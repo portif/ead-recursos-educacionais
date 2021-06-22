@@ -61,4 +61,4 @@ Ahh... uma última coisa: você sabe como podemos classificar essa ferramenta "C
 
 - [1] Parágrafo adaptado de: Design gráfico: o guia definitivo: dê destaque aos seus conteúdos. Disponível em: https://rockcontent.com/guia/design-grafico-o-guia-definitivo/#parte10. Acesso em: 25 de junho de 2018. 
 - [2] Resenha do livro adaptada de: Blog do Ben Oliveira.  Disponível em: http://www.benoliveira.com/2013/09/design-para-quem-nao-e-designer-robin.html. Acesso em: 25 de junho de 2018. 
-- [3] Conteúdo extraído de:   O significado de Uma imagem vale mais que mil palavras. Disponível em: https://www.significados.com.br/uma-imagem-vale-mais-que-mil-palavras/. Acesso em: 25 de junho de 2018. 
+- [3] Conteúdo extraído de: O significado de Uma imagem vale mais que mil palavras. Disponível em: https://www.significados.com.br/uma-imagem-vale-mais-que-mil-palavras/. Acesso em: 25 de junho de 2018. 
