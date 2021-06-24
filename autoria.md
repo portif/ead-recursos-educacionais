@@ -33,7 +33,7 @@ Em plataformas de programação, professores e alunos podem deixar de ser apenas
 ```{note} "Aprofunde seus conhecimentos"
 A Universidade Federal do ABC Paulista (UFABC) disponibiliza uma lista de ferramentas de autoria, com as definições das possibilidades pedagógicas, exemplos de aplicação e tutoriais para o uso de cada uma. Clique no link a seguir para navegar nesta página.
 
-[Ferramentas de autoria.]()
+[Ferramentas de autoria.](https://netel.ufabc.edu.br/ferramentas-qs/didaticas-qs)
 ```
 
 Além de todas as ferramentas citadas no site indicado, há ainda o Webquest, uma ferramenta para pesquisa dirigida, isto é, trabalho de pesquisa orientado na web. Através dela, o professor incentiva e promove a auto-aprendizagem, sendo que o aluno realiza a pesquisa conforme orientação do professor. Há, também, repositório de webquest disponibilizado de forma colaborativa. Para saber mais sobre essa ferramenta, acesse [recursos da Internet para Educação: webquest](http://webeduc.mec.gov.br/webquest/), na página você também encontra informações sobre Hot-Potates e Blog, duas ferramentas de autoria fáceis de utilizar para variadas situações.
