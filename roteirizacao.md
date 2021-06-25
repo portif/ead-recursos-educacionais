@@ -74,3 +74,5 @@ Um elemento que merece atenção em todas as histórias é que elas são feitas 
 - **Histórias paralelas**: além da narrativa central, pode haver narrativas paralelas que enriquecem o contexto. No seu material, você pode promover o mesmo fornecendo elementos extras que ampliam os horizontes da jornada.
 
 E aí, o que mais você percebe de interessante nas técnicas de contação de histórias que podem ser aproveitadas em recursos didáticos? [Compartilhe aqui conosco!]()
+
+

@@ -4,11 +4,12 @@
 
 Você já ouviu falar na expressão *"Do it yourself?"*  ou simplesmente DIY? Trata-se de uma expressão inglesa que significa "Faça você mesmo". Para alguns, pode ser considerada até uma filosofia de vida que se popularizou na década de 1970 trazendo a ideia de que na contramão do consumismo, há a opção de se abster das compras e você mesmo fabricar, produzir aquilo que deseja. Se você digitar a expressão no youtube, por exemplo, encontrará diversos vídeos que irão te ensinar a confeccionar presentes, decorações, roupas ou até mesmo móveis. 
 
-Na língua portuguesa, o DIY também pode ser considerado sinônimo de bricolagem, que consiste na realização de pequenos trabalhos domésticos que dispensam a utilização de serviços profissionais. Por exemplo, a pintura e personalização de um móvel decorativo antigo é ao mesmo tempo uma atividade de bricolagem como também engloba o conceito do “Faça Você Mesmo”, pois dispensa o uso de ajuda profissional. [1]
+Na língua portuguesa, o DIY também pode ser considerado sinônimo de bricolagem, que consiste na realização de pequenos trabalhos domésticos que dispensam a utilização de serviços profissionais. Por exemplo, a pintura e personalização de um móvel decorativo antigo é ao mesmo tempo uma atividade de bricolagem como também engloba o conceito do "Faça Você Mesmo", pois dispensa o uso de ajuda profissional. [1]
 
 Para o nosso contexto de produção de recursos educacionais, a ideia de "Faça você mesmo" adapta-se perfeitamente ao conceito de "Ferramentas de autoria".
 
 ```{note} "Mas o que são ferramentas de autoria afinal?"
+
 Ferramentas de autoria são programas/softwares online ou offline chamados "amigáveis", ou seja, que facilitam e agilizam a criação de recursos digitais. Elas proporcionam que o usuário comum seja autor do seu próprio material didático digital, seja ele um texto, uma atividade de aprendizagem, uma videoaula, uma animação, uma simulação, um jogo ou até mesmo um aplicativo.
 ```
 
@@ -37,3 +38,32 @@ A Universidade Federal do ABC Paulista (UFABC) disponibiliza uma lista de ferram
 ```
 
 Além de todas as ferramentas citadas no site indicado, há ainda o Webquest, uma ferramenta para pesquisa dirigida, isto é, trabalho de pesquisa orientado na web. Através dela, o professor incentiva e promove a auto-aprendizagem, sendo que o aluno realiza a pesquisa conforme orientação do professor. Há, também, repositório de webquest disponibilizado de forma colaborativa. Para saber mais sobre essa ferramenta, acesse [recursos da Internet para Educação: webquest](http://webeduc.mec.gov.br/webquest/), na página você também encontra informações sobre Hot-Potates e Blog, duas ferramentas de autoria fáceis de utilizar para variadas situações.
+
+```{note} "Dica importante"
+As ferramentas de autoria tem por função possibilitar e facilitar a criação de produtos digitais. Geralmente geram objetos de aprendizagem que podem ser disponibilizados como recursos educacionais abertos. Por isso, fique atento e atribua uma licença de uso para o seu recurso, pois, ao produzir um recurso como esse, é provável que ele fique disponível online ou em algum repositório.
+```
+
+Lembre-se que essas são apenas algumas das ferramentas de autoria existentes e que cabe a você descobrir aquela que servirá de modo adequado ao contexto educacional no qual você está envolvido.
+
+```{note} "Na prática"
+Ferramentas de autoria para produção colaborativa com os estudantes:
+
+As ferramentas de autoria, podem servir para você produzir recursos didáticos, mas também podem ser muito úteis para tranformar os alunos em protagonistas e possibilitar que eles desenvolvam produtos e projetos. Em processos de educomunicação, por exemplo, eles trabalham com **ferramentas de autoria e produção audiovisual** para criarem seus próprios *podcasts*, sites, livros digitais, jornais, vídeos e tantos outros formatos. Essas atividades estimulam o desenvolvimento de competências cognitivas e socioemocionais, valorizando o trabalho em equipe e desenvolvendo habilidades de comunicação. Em **plataformas de programação**, por exemplo, eles deixam de ser apenas consumidores de tecnologia e criam jogos, sites, aplicativos e pequenas animações. Alguns exemplos deste tipo de recursos, você encontra nos links abaixo.
+
+Ferramentas de autoria e produção audiovisual:
+
+- [Audacity](http://sourceforge.net/projects/audacity/?source=directory)
+- [Issuu](http://issuu.com/)
+- [Livros digitais](http://www.livrosdigitais.org.br/)
+
+Plataformas de programação:
+
+- [App Inventor](http://appinventor.mit.edu/explore/)
+- [Codecademy](https://www.codecademy.com/pt)
+- [Scratch](http://porvir.org/especiais/tecnologia/)
+- [Repl.it](https://replit.com/)
+
+```
+
+[1] Texto extraído de <https://www.significados.com.br/diy/>.
+[2] Texto extraído de: <http://www.mobiliza.com.br/ferramentas-de-autoria-e-learning/>
