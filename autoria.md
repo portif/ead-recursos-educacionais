@@ -8,7 +8,7 @@ Na língua portuguesa, o DIY também pode ser considerado sinônimo de bricolage
 
 Para o nosso contexto de produção de recursos educacionais, a ideia de "Faça você mesmo" adapta-se perfeitamente ao conceito de "Ferramentas de autoria".
 
-```{note} "Mas o que são ferramentas de autoria afinal?"
+```{admonition} Mas o que são ferramentas de autoria afinal?
 
 Ferramentas de autoria são programas/softwares online ou offline chamados "amigáveis", ou seja, que facilitam e agilizam a criação de recursos digitais. Elas proporcionam que o usuário comum seja autor do seu próprio material didático digital, seja ele um texto, uma atividade de aprendizagem, uma videoaula, uma animação, uma simulação, um jogo ou até mesmo um aplicativo.
 ```
@@ -31,7 +31,8 @@ No contexto educacional, servem tanto para professores desenvolverem recursos ed
 
 Em plataformas de programação, professores e alunos podem deixar de ser apenas consumidores de tecnologia para serem produtores de recursos digitais, criando produtos bem elaborados, como jogos, aplicativos e pequenas animações. Nos últimos anos, diferentes ferramentas de autoria surgiram com o propósito de não exigir nenhum conhecimento técnico ou de programação do usuário para a criação de seus próprios materiais digitais, facilitando a construção de recursos nas mais diversas áreas do conhecimento e com os mais diferentes propósitos pedagógicos.
 
-```{note} "Aprofunde seus conhecimentos"
+```{admonition} Aprofunde seus conhecimentos
+
 A Universidade Federal do ABC Paulista (UFABC) disponibiliza uma lista de ferramentas de autoria, com as definições das possibilidades pedagógicas, exemplos de aplicação e tutoriais para o uso de cada uma. Clique no link a seguir para navegar nesta página.
 
 [Ferramentas de autoria.](https://netel.ufabc.edu.br/ferramentas-qs/didaticas-qs)
@@ -39,13 +40,13 @@ A Universidade Federal do ABC Paulista (UFABC) disponibiliza uma lista de ferram
 
 Além de todas as ferramentas citadas no site indicado, há ainda o Webquest, uma ferramenta para pesquisa dirigida, isto é, trabalho de pesquisa orientado na web. Através dela, o professor incentiva e promove a auto-aprendizagem, sendo que o aluno realiza a pesquisa conforme orientação do professor. Há, também, repositório de webquest disponibilizado de forma colaborativa. Para saber mais sobre essa ferramenta, acesse [recursos da Internet para Educação: webquest](http://webeduc.mec.gov.br/webquest/), na página você também encontra informações sobre Hot-Potates e Blog, duas ferramentas de autoria fáceis de utilizar para variadas situações.
 
-```{note} "Dica importante"
+```{admonition} Dica importante
 As ferramentas de autoria tem por função possibilitar e facilitar a criação de produtos digitais. Geralmente geram objetos de aprendizagem que podem ser disponibilizados como recursos educacionais abertos. Por isso, fique atento e atribua uma licença de uso para o seu recurso, pois, ao produzir um recurso como esse, é provável que ele fique disponível online ou em algum repositório.
 ```
 
 Lembre-se que essas são apenas algumas das ferramentas de autoria existentes e que cabe a você descobrir aquela que servirá de modo adequado ao contexto educacional no qual você está envolvido.
 
-```{note} "Na prática"
+```{admonition} Na prática
 Ferramentas de autoria para produção colaborativa com os estudantes:
 
 As ferramentas de autoria, podem servir para você produzir recursos didáticos, mas também podem ser muito úteis para tranformar os alunos em protagonistas e possibilitar que eles desenvolvam produtos e projetos. Em processos de educomunicação, por exemplo, eles trabalham com **ferramentas de autoria e produção audiovisual** para criarem seus próprios *podcasts*, sites, livros digitais, jornais, vídeos e tantos outros formatos. Essas atividades estimulam o desenvolvimento de competências cognitivas e socioemocionais, valorizando o trabalho em equipe e desenvolvendo habilidades de comunicação. Em **plataformas de programação**, por exemplo, eles deixam de ser apenas consumidores de tecnologia e criam jogos, sites, aplicativos e pequenas animações. Alguns exemplos deste tipo de recursos, você encontra nos links abaixo.

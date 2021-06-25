@@ -40,7 +40,7 @@ Vamos supor que trocamos algumas ideias considerando o conteúdo e o perfil do p
 
 Note que as três ideias apresentam sequências e elementos diferentes, mas todas trabalham para levar o estudante/leitor a atingir um objetivo de aprendizagem que é saber diferenciar os tipos de massa. Observe, também, que não foi indicada a mídia para cada ideia de roteiro. Se quiser, leia novamente cada ideia e imagine como ela seria em formato de uma apostila impressa, um vídeo ou recurso interativo. Dependendo da mídia, o roteiro precisa agora ser desdobrado para detalhar os aspectos necessários (assim como você exercitou no caso do roteiro de vídeo).
 
-```{note} "Aprofunde seus conhecimentos"
+```{admonition} Aprofunde seus conhecimentos
 A produção de um recurso educacional pode ser feita por você mesmo ou por uma equipe especializada. Todavia, cada vez mais surgem ferramentas de autoria mais completas e fáceis de usar que promovem a autonomia nessa criação. Algumas dessas ferramentas são gratuitas e outras pagas. Você verá um melhor esse assunto no Capítulo 6. Até lá, que tal ver esse material sobre roteiro de cursos online? Ele contempla alguns dos elementos que vimos até aqui. Ah! Observe que o recurso utilizado se trata de um material que costumamos chamar de "tela e tela". É um recurso interessante para conteúdos mais curtos e rápidos, visto que pode cansar pelo excesso de cliques.   
 
 [Como criar roteiros para cursos online.](https://www.mobiliza.com.br/acervo/curso-roteiros-para-ead/)

@@ -6,7 +6,7 @@ Até aqui, você pode conhecer um pouco sobre aspectos importantes das produçã
 
 **Errado!**
 
-```{note} "Você precisa saber"
+```{admonition} Você precisa saber
 Gamificação, do inglês *Gamification*, é a prática de aplicar os princípios dos games em outros contextos e áreas diversas, como negócios, saúde e vida social e, porque não, educação! O principal objetivo é aumentar o engajamento e despertar a curiosidade dos usuários. Não é necessário criar um jogo em si, mas somente usar seus fundamentos. Aprenda mais no artigo abaixo de Paulo Vasconcellos (2016).
 
  [Artigo: O que é Gamificação? Conheça a ciência que traz os jogos para o cotidiano.](https://www.techtudo.com.br/noticias/noticia/2016/07/o-que-e-gamificacao-conheca-ciencia-que-traz-os-jogos-para-o-cotidiano.html)
@@ -16,7 +16,7 @@ No artigo citado anteriormente, Vasconcellos (2016) faz uma afirmação importan
 
 Muito bem! Vamos ver se você acertou? Vamos identificar que elementos foram esses? Continue a leitura com o texto de do professor Antônio Miguel Faustini Zarth (2017).
 
-```{note} "Você precisa saber"
+```{admonition} Você precisa saber
 Acesse aqui o texto do Prof. Antônio Miguel Faustini Zarth (2017) e conheça os principais elementos da gamificação.
 
  [Texto: Fundamentos da gamificação.](https://moodle.ead.ifsc.edu.br/pluginfile.php/224604/mod_book/chapter/16220/GAMIFICA%C3%87%C3%83O.pdf)
@@ -40,7 +40,7 @@ Como você pode perceber na sua leitura até aqui, um dos grandes objetivos da g
 
    Em um bom game, todos os jogadores têm o mesmo acesso aos recursos e informações e, embora o progresso possa variar, há uma oportunidade contínua para aprender habilidades para o domínio de todas as fases do jogo.
 
-```{note} "Aprofunde seus conhecimentos"
+```{admonition} Aprofunde seus conhecimentos
 Como vimos, os fundamentos da gamificação podem ser utilizados nos mais diversos contextos. E também podem ser muito explorados para a aprendizagem. Para aprofundar-se em como a gamificação pode contribuir para a aprendizagem, leia o texto do Prof. Raul Busarello que, em sua tese de doutorado, aprofundou-se nesta temática. 
 
 [Acesse o texto clicando aqui.](https://moodle.ead.ifsc.edu.br/pluginfile.php/224604/mod_book/chapter/16220/Gamificacao%20para%20aprendizagem%20-%20Tese%20de%20Raul%20Busarello.pdf)
@@ -50,7 +50,7 @@ Interessante não é mesmo? E ao mesmo tempo: muitas informações. Vamos revisa
 
 [![Pequeno Guia de Gamification](imagens/o-que-e-gamificacao-3.png)](https://moodle.ead.ifsc.edu.br/pluginfile.php/224604/mod_book/chapter/16220/o-que-e-gamificacao-1.png?time=1532556528542)
 
-```{note} "Aprofunde seus conhecimentos"
+```{admonition} Aprofunde seus conhecimentos
 Ainda sobre as questões relacionadas à gamificação na Educação, o Prof. João Mattar tem um livro sobre jogos - acesse aqui... Ele comenta na entrevista a seguir como desenvolver e executar estratégias de gamificação. O professor remete-se diretamente para a área da Educação à Distância, mas as estratégias que ele destaca facilmente podem ser aplicadas a outros contextos profissionais.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nmn7TVvXhHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

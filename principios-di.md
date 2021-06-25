@@ -6,7 +6,8 @@ Design instrucional (DI) pode ser entendido como a atividade de desenvolvimento 
 
 De lá pra cá muita coisa mudou. Avanços nas teorias de aprendizagem, nas tecnologias de informação e comunicação e na Educação como um todo ampliaram o entendimento sobre o que é Design Instrucional. À propósito, o próprio termo "instrucional", que vem do inglês "instructional", vai além da noção de instrução como um conjunto de orientações para operar uma máquina, por exemplo. Nesse contexto, o termo "instrucional" remete à ideia de planejamento, de uma sequência sistemática de conteúdos e atividades com o objetivo de construir o conhecimento, desenvolver competências, de aprender (SILVA, 2013).
 
-```{note} "Design Instrucional ou Design Educacional?"
+```{admonition} Design Instrucional ou Design Educacional?
+
 O conceito de Design Educacional costuma aparecer para representar um trabalho mais amplo, por exemplo, o projeto de um curso. Já o Design Instrucional seria em nível menor, por exemplo de um material didático específico, como uma videoaula. Todavia, grande parte dos autores que pesquisam a área entendem o Design Instrucional como uma atividade ampla, que também inclui planejamento de cursos e projetos em nível institucional. Além disso, o termo Design Instrucional é mais comum nos diversos meios que tratam do tema (clique aqui e veja um comparativo do número de buscas no Google). Nesse sentido, nesta unidade curricular, trataremos Design Instrucional e Design Educacional como sinônimos.
 ```
 
@@ -21,7 +22,7 @@ Filatro (2008) também destaca que design instrucional pode acontecer em nível 
 
 > Nesta unidade curricular de **Produção de Recursos Didáticos**, focaremos no **nível micro**, que se refere à elaboração de materiais. O **nível macro** é trata em outros cursos e unidades voltadas para o **Planejamento de Cursos e Unidades Curriculares**. 
 
-```{note} "E agora?"
+```{admonition} E agora?
 Design Instrucional é só para EaD? O design instrucional recebe destaque na Educação a Distância pelo fato de que o bom planejamento do material didático é fundamental nessa modalidade. Além do material, o ambiente virtual, as atividades e a mediação também precisam ser previamente planejadas. Ao se projetar uma solução educacional na modalidade a distância, é preciso prever os possíveis caminhos, os diferentes perfis e estilos de aprendizagem, as possíveis dúvidas e fatores que podem desmotivar o aluno a seguir em frente. Mas não seriam estas, também, preocupações do ensino presencial?
 ```
 
@@ -50,7 +51,7 @@ Este modelo pode ser aplicado tanto em nível macro, para o desenvolvimento de c
 
 Também é importante destacar que esse modelo apresenta uma lógica linear, mas é possível mesclar essa abordagem com *Design Thinking* ou outras metodologias não lineares, integrando a avaliação ao longo do processo e implementando fases de prototipação, por exemplo. Você pode avaliar continuamente e retornar para etapas anteriores antes de efetivamente implementar a solução para um grande público. 
 
-```{note} "Aprofunde seus conhecimentos"
+```{admonition} Aprofunde seus conhecimentos
 Existem outros modelos de Design Instrucional, com diferentes pontos de vista. O modelo ARCS, por exemplo, foi criado pelo psicólogo norte americano John Keller ao buscar formas de trabalhar melhor a motivação dos alunos para aprendizagem.
 
 [Conheça outros modelos clicando aqui.](https://moodle.ead.ifsc.edu.br/pluginfile.php/224604/mod_book/chapter/16225/modelagem-modelosDI.pdf)
@@ -72,7 +73,7 @@ Uma das formas de incorporar esses indicadores de qualidade é por meio dos cham
 
 Nesse exato momento, estamos aqui escrevendo este material e já pensando que precisamos utilizar um dos nossos elementos instrucionais que é o "Deu certo". Você deve ter visto ele nos materiais das unidades anteriores. É aquela caixa que conta um caso de sucesso, um exemplo real, relacionado ao conteúdo que estamos trabalhando. À propósito, um "Deu certo" do próprio curso cairia bem, hein? Então, aí vai um exemplo da casa pra você:
 
-```{note} "Deu certo!"
+```{admonition} Deu certo!
 A Especialização em Tecnologias para Educação Profissional do Instituto Federal de Santa Catarina foi pensada de forma colaborativa por professores e profissionais de diferentes áreas. Em pelo menos duas das reuniões que fizemos a pauta tratou da estrutura do ambiente virtual, do formato do nosso material didático e dos elementos instrucionais que trabalharíamos. Depois de muitas ideias, chegamos aos seguintes elementos:
 
 ![Foto](imagens/foto-2018-07-10-23.20.24.png)
@@ -107,7 +108,7 @@ Outro ponto relevante da linguagem dialógica é que um diálogo não é um mon�
 
 Não é à toa que a linguagem dialógica é um elemento indicador para qualidade do material didático. Para Freire (2011, p. 47), ensinar “não é transferir conhecimento, mas criar as possibilidades para a sua produção ou a sua construção". Isto significa que além de apresentar o conteúdo de forma agradável, interessante e motivadora, o autor precisa instigar a reflexão-ação.
 
-```{note} "Destaques da linguagem dialógica"
+```{admonition} Destaques da linguagem dialógica
 - **Tom de conversa** - procure escrever/falar como se estivesse conversando com o leitor/espectador. Use pronomes de tratamento, como “você", e/ou terceira pessoa “nós". Por exemplo: "Até aqui, vimos que a linguagem é essencial na elaboração de um material didático. No tópico a seguir, você conhecerá uma técnica de narrativas conhecida como *storytelling*".
 
 - **Orientação da leitura/navegação** - receba o leitor com boas-vindas e direcione as ações. Por exemplo: "Veja, no vídeo que segue, a diferença entre linguagem acadêmica e linguagem dialógica." / “Clique no link a seguir e saiba mais." / “Participe da discussão! Acesse o fórum e compartilhe suas ideias."
@@ -119,7 +120,7 @@ Não é à toa que a linguagem dialógica é um elemento indicador para qualidad
 
 ```
 
-```{admonition} "Cuidados com a linguagem dialógica"
+```{admonition} Cuidados com a linguagem dialógica
 - **Informalidade excessiva** - a informalidade e o humor são recursos adequados para promover a proximidade com o leitor, mas é preciso atentar para que eles não prejudiquem a compreensão ou afetem a percepção de relevância de determinado conteúdo.
 
 
@@ -134,7 +135,7 @@ Não é à toa que a linguagem dialógica é um elemento indicador para qualidad
 Ah! Uma dica: por mais que você esteja produzindo um material para diversas pessoas, na maior parte dos casos, soa mais próximo dizer “você” em vez de “vocês”. ;)
 ```
 
-```{note} "Você precisa saber"
+```{admonition} Você precisa saber
 Considerando o que você já estudou até aqui sobre Design Instrucional e Linguagem dialógica, indicamos a leitura do artigo Produção de conteúdos para EaD: planejamento, execução e avaliação, disponível na sequência. Os autores fazem uma retomada de alguns conceitos, em especial acerca da linguagem dialógica instrucional.
 
  [Clique aqui para ler](https://moodle.ead.ifsc.edu.br/pluginfile.php/224604/mod_book/chapter/16227/volume_2_artigo_203.pdf)
