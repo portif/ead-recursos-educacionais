@@ -20,12 +20,12 @@ Na realidade de modo simples, podemos dizer que o design gráfico é a **área i
 
 Ainda com base nos textos da professora, podemos dizer que o design gráfico por ser essencialmente visual, é muito confundido com o trabalho dos ilustradores. Contudo, ela explica que: "enquanto um ilustrador cria ou desenha uma imagem em resposta a uma ideia, um designer combina ilustrações, fotografias e tipos para comunicar uma ideia. Uma maneira de entender isso é considerar a diferença entre um fabricante de móveis e um designer de interiores. Um faz um objeto específico para um propósito específico, enquanto o outro pensa em como todos os objetos e superfícies de um ambiente criam um ambiente para a pessoa que se move através dele". (CEZZAR, 2017). E é nesse aspecto que os princípios básicos de design gráfico podem ajudar você!
 
-Vamos fazer um exercício rápido para verificar na prática essa constatação: que tipo de conteúdo chama mais a sua atenção: (a) aquele com blocos enormes de texto e sem nenhuma imagem ou (b) aquele com conteúdo bem distribuído, bem organizado, onde a hierarquia é clara e as ilustrações estão nítidas e com significado claro? Pronto, está aí sua confirmação. É por meio do design gráfico que você conseguirá aumentar o apelo visual do seus conteúdos, se comunicar de forma clara e objetiva, aumentar a motivação de todos aqueles que estiverem, por meio do seu recurso didático, envolvidos no processo de aprendizagem [1^].
+Vamos fazer um exercício rápido para verificar na prática essa constatação: que tipo de conteúdo chama mais a sua atenção: (a) aquele com blocos enormes de texto e sem nenhuma imagem ou (b) aquele com conteúdo bem distribuído, bem organizado, onde a hierarquia é clara e as ilustrações estão nítidas e com significado claro? Pronto, está aí sua confirmação. É por meio do design gráfico que você conseguirá aumentar o apelo visual do seus conteúdos, se comunicar de forma clara e objetiva, aumentar a motivação de todos aqueles que estiverem, por meio do seu recurso didático, envolvidos no processo de aprendizagem [^1].
 
 Atualmente muitas pessoas escrevem e publicam digitalmente seus textos. E, claro, esperam que seu material seja lido. Os leitores, por sua vez, exigem que os itens importantes estejam claramente apresentados. Eles não se interessarão por um material difícil de ler, mas ficarão satisfeitos com o que tiver uma aparência bem organizada, pois isso facilitará a sua leitura, ainda que o conteúdo seja complexo. Por isso, a parte importante deve ficar em destaque e aquela sem importância deve ser abrandada. Temos aí, uma dos princípios básicos do design gráfico: o contraste! Vamos aprender outros?
 
 ```{note}
-A seguir, disponibilizamos para você, uma parte do livro "Design para quem não é designer: noções básicas de planejamento visual", escrito por Robin Williams. Como a própria autora lembra o livro não tem a pretensão de formar designers, porém através de uma apresentação simples dos princípios básicos de design, acreditamos que é possível produzir recursos didáticos com uma aparência mais profissional, organizada, unificada e interessante [2^]. E não é isso que queremos? Então siga com a leitura!
+A seguir, disponibilizamos para você, uma parte do livro "Design para quem não é designer: noções básicas de planejamento visual", escrito por Robin Williams. Como a própria autora lembra o livro não tem a pretensão de formar designers, porém através de uma apresentação simples dos princípios básicos de design, acreditamos que é possível produzir recursos didáticos com uma aparência mais profissional, organizada, unificada e interessante [^2]. E não é isso que queremos? Então siga com a leitura!
 
 [Clique aqui para ler](https://moodle.ead.ifsc.edu.br/pluginfile.php/224604/mod_book/chapter/16221/design_para_quem_nao_e_designer-principios%20basicos-final.pdf)
 ```
@@ -59,8 +59,8 @@ Ainda está achando dificil construir recursos didáticos e utilizar os princíp
 
 Ahh... uma última coisa: você sabe como podemos classificar essa ferramenta "Canva"? Podemos classificá-la como uma ferramenta de autoria. Quer saber porque? Continue a leitura.
 
-[1^]: Parágrafo adaptado de: Design gráfico: o guia definitivo: dê destaque aos seus conteúdos. Disponível em: https://rockcontent.com/guia/design-grafico-o-guia-definitivo/#parte10. Acesso em: 25 de junho de 2018. 
+[^1]: Parágrafo adaptado de: Design gráfico: o guia definitivo: dê destaque aos seus conteúdos. Disponível em: https://rockcontent.com/guia/design-grafico-o-guia-definitivo/#parte10. Acesso em: 25 de junho de 2018. 
 
-[2^]: Resenha do livro adaptada de: Blog do Ben Oliveira.  Disponível em: http://www.benoliveira.com/2013/09/design-para-quem-nao-e-designer-robin.html. Acesso em: 25 de junho de 2018. 
+[^2]: Resenha do livro adaptada de: Blog do Ben Oliveira.  Disponível em: http://www.benoliveira.com/2013/09/design-para-quem-nao-e-designer-robin.html. Acesso em: 25 de junho de 2018. 
 
-[3^]: Conteúdo extraído de: O significado de Uma imagem vale mais que mil palavras. Disponível em: https://www.significados.com.br/uma-imagem-vale-mais-que-mil-palavras/. Acesso em: 25 de junho de 2018. 
+[^3]: Conteúdo extraído de: O significado de Uma imagem vale mais que mil palavras. Disponível em: https://www.significados.com.br/uma-imagem-vale-mais-que-mil-palavras/. Acesso em: 25 de junho de 2018. 
