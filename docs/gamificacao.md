@@ -2,7 +2,8 @@
 
 Até aqui, você pode conhecer um pouco sobre aspectos importantes das produção de recursos didáticos: conversamos sobre os princípios do design instrucional, os principais elementos dos materiais didáticos, bem como as principais noções de roteirização e do *storytelling*. Muito legal, não é? Mas o mais interessante vem agora, ou seja, chegou a hora de brincarmos um pouco: vamos falar de**gamificação**! Mas você sabe o que este termo significa? Talvez, se nunca leu algo sobre o tema, você poderá imaginar que "gamificar" é utilizar "games" em um determinado contexto, certo? 
 
-<iframe src="https://giphy.com/embed/JuUWDI13JB0XK" width="480" height="276" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disneypixar-disney-pixar-JuUWDI13JB0XK">via GIPHY</a></p>
+```{youtube} JuUWDI13JB0XK
+```
 
 **Errado!**
 
@@ -53,5 +54,5 @@ Interessante não é mesmo? E ao mesmo tempo: muitas informações. Vamos revisa
 ```{admonition} Aprofunde seus conhecimentos
 Ainda sobre as questões relacionadas à gamificação na Educação, o Prof. João Mattar tem um livro sobre jogos - acesse aqui... Ele comenta na entrevista a seguir como desenvolver e executar estratégias de gamificação. O professor remete-se diretamente para a área da Educação à Distância, mas as estratégias que ele destaca facilmente podem ser aplicadas a outros contextos profissionais.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmn7TVvXhHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{youtube} nmn7TVvXhHo
 ```

@@ -12,7 +12,9 @@ E agora, depois de estudarmos sobre design instrucional e conhecermos elementos 
 
 Quando Steve Jobs afirma o exposto acima, corrobora com o designer gráfico japonês Ikko Tanaka que, ao definir o "Design Gráfico" explica que trata-se de uma capacidade de criar algo enxuto a partir de várias considerações, tirando o excedente e filtrando o essencial, alcançando seu objetivo no momento que consegue traduzir o desejo do cliente e a interação completa do receptor.  Ficou mais claro? Talvez não, não é mesmo? Ainda estamos numa linha muito poética. Vamos ser mais práticos...Assista o vídeo a seguir, de autoria de Matheus Moura e sua equipe, que traz, de forma bem divertida e talvez pouco humilde, mais informações sobre esse campo do conhecimento.
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/21972483" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+```{vimeo} 21972483
+```
 
 Na realidade de modo simples, podemos dizer que o design gráfico é a **área interdisciplinar, ou seja, que congrega diversas outras áreas do conhecimento para planejar, projetar e executar ideias e experiências com conteúdo visual e textual**. Isso quer dizer que os designers gráficos organizam a tipografia, a forma e a imagem em cartazes, anúncios, pacotes e outros materiais impressos e digitais, bem como visualizações de informações e gráficos para jornais e revistas" (CEZZAR, 2017).  A designer, escritora e professora Juliette Cezzar é quem apresenta esta definição e complementa que:
 
@@ -54,7 +56,7 @@ Por isso, é muito importante utilizar imagens para ilustrar ou tangibilizar mai
 ```{admonition} Aprofunde seus conhecimentos
 Ainda está achando dificil construir recursos didáticos e utilizar os princípios do design gráfico? Bom, atualmente há muitos softwares disponíveis que ajudam você a elaborar peças gráficas com uma qualidade quase profissional. Uma dessas plataformas é o "Canva". O Canva consiste numa das ferramentas de criação de conteúdos gráficos mais simples de utilizar e que, ao meu ver, tem muita qualidade gráfica! O Canva é gratuito e online e está disponível em: <https://www.canva.com/pt_br/>. Mais informações você obtém no próprio site, no blog: <http://blog.cleverweb.com.br/canva-o-que-e-e-como-utilizar/> ou ainda assistindo ao vídeo a seguir que apresenta os primeiros passos para utilizar essa ferramenta: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3LVBzoaM2f8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{youtube} 3LVBzoaM2f8
 ```
 
 Ahh... uma última coisa: você sabe como podemos classificar essa ferramenta "Canva"? Podemos classificá-la como uma ferramenta de autoria. Quer saber porque? Continue a leitura.

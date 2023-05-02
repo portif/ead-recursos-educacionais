@@ -55,7 +55,8 @@ Contar histórias ou *storytelling*, à propósito, é uma das formas mais antig
 
 Histórias, mitos, livros e filmes já foram estudados a fim de tentar identificar padrões de narrativa que estejam relacionados com o interesse e a atenção do público. Algumas destas formas de contar histórias são apresentadas no vídeo que segue. Confira!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/360y-AwaLK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{youtube} 360y-AwaLK4
+```
 
 Dentre as apresentadas, a mais conhecida é a Jornada do Herói. Uma análise feita por Joseph Campbell que indica alguns passos comuns em histórias de sucesso. Veja no infográfico a seguir.
 

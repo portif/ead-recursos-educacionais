@@ -30,6 +30,7 @@ author = 'Luis Henrique Lindner e Sabrina Bleicher'
 extensions = [
     'myst_parser',
     'sphinx_comments',
+    'sphinxcontrib.youtube',
 ]
 
 comments_config = {

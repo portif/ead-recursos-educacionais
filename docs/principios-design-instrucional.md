@@ -15,8 +15,8 @@ Um dos nomes que despontam no Brasil quando se trata de Design Instrucional (DI)
 
 O vídeo que segue é um webinário recente sobre o tema, no qual a autora resgata alguns conceitos básicos e apresenta práticas inovadoras no design instrucional. Assista ao vídeo e, em seguida, compartilhe suas percepções com os colegas, [clicando aqui!]()
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NDqixn8jU_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+```{youtube} NDqixn8jU_0
+```
 
 Filatro (2008) também destaca que design instrucional pode acontecer em nível macro e/ou micro. O nível macro implica em gerenciar o projeto, envolvendo a análise dos requisitos de um curso, estratégias institucionais, os objetivos de aprendizagem, possível perfil dos alunos, a avaliação do curso, etc. Já o nível micro está mais centrado na organização e adequação do conteúdo, na criação de recursos educacionais, objetos de aprendizagem que facilitem e qualifiquem o conteúdo disponibilizado ao aluno.
 
@@ -106,14 +106,14 @@ Na EaD, a gente diz que a educação é a distância, mas não precisa ser dista
 
 Outro ponto relevante da linguagem dialógica é que um diálogo não é um monólogo. Parece óbvio, mas como fazer para ouvir o outro sendo que o autor está em um tempo diferente do leitor? É por isso que além da linguagem próxima, o autor deve promover a reflexão, como se esperasse uma resposta do leitor. (Em alguns casos, é possível prever formas para que o leitor se manifeste. Neste curso, nós criamos tópicos de discussão ao longo do texto que levam a um fórum, por exemplo.)
 
-Não é à toa que a linguagem dialógica é um elemento indicador para qualidade do material didático. Para Freire (2011, p. 47), ensinar “não é transferir conhecimento, mas criar as possibilidades para a sua produção ou a sua construção". Isto significa que além de apresentar o conteúdo de forma agradável, interessante e motivadora, o autor precisa instigar a reflexão-ação.
+Não é à toa que a linguagem dialógica é um elemento indicador para qualidade do material didático. Para Freire (2011, p. 47), ensinar "não é transferir conhecimento, mas criar as possibilidades para a sua produção ou a sua construção". Isto significa que além de apresentar o conteúdo de forma agradável, interessante e motivadora, o autor precisa instigar a reflexão-ação.
 
 ```{admonition} Destaques da linguagem dialógica
-- **Tom de conversa** - procure escrever/falar como se estivesse conversando com o leitor/espectador. Use pronomes de tratamento, como “você", e/ou terceira pessoa “nós". Por exemplo: "Até aqui, vimos que a linguagem é essencial na elaboração de um material didático. No tópico a seguir, você conhecerá uma técnica de narrativas conhecida como *storytelling*".
+- **Tom de conversa** - procure escrever/falar como se estivesse conversando com o leitor/espectador. Use pronomes de tratamento, como "você", e/ou terceira pessoa "nós". Por exemplo: "Até aqui, vimos que a linguagem é essencial na elaboração de um material didático. No tópico a seguir, você conhecerá uma técnica de narrativas conhecida como *storytelling*".
 
-- **Orientação da leitura/navegação** - receba o leitor com boas-vindas e direcione as ações. Por exemplo: "Veja, no vídeo que segue, a diferença entre linguagem acadêmica e linguagem dialógica." / “Clique no link a seguir e saiba mais." / “Participe da discussão! Acesse o fórum e compartilhe suas ideias."
+- **Orientação da leitura/navegação** - receba o leitor com boas-vindas e direcione as ações. Por exemplo: "Veja, no vídeo que segue, a diferença entre linguagem acadêmica e linguagem dialógica." / "Clique no link a seguir e saiba mais." / "Participe da discussão! Acesse o fórum e compartilhe suas ideias."
 
-- **Reflexão** - faça perguntas/desafios em momentos oportunos para que o leitor resgate conhecimentos prévios, relacione o que está vendo com situações reais, questione conceitos, etc. Por exemplo: “Por que será que alguns conteúdos são tão agradáveis, instigantes e de fácil assimilação?"
+- **Reflexão** - faça perguntas/desafios em momentos oportunos para que o leitor resgate conhecimentos prévios, relacione o que está vendo com situações reais, questione conceitos, etc. Por exemplo: "Por que será que alguns conteúdos são tão agradáveis, instigantes e de fácil assimilação?"
 
 
 - **Exemplos/casos** - traga exemplos, comparações, casos que ilustrem e problematizem os conceitos apresentados. Cada leitor terá uma bagagem de experiências e conhecimentos diferentes. Por isso, proponha situações que permitam exercitar, refletir e construir o conhecimento na prática.
@@ -127,12 +127,12 @@ Não é à toa que a linguagem dialógica é um elemento indicador para qualidad
 - **Nível dos leitores** - é preciso estabelecer uma linguagem adequada ao público do material sendo produzido. Um material para especialização, por exemplo, será diferente de um material para crianças. A propósito, no intuito de se aproximar com o leitor adulto, é preciso cuidar para que a linguagem não fique infantil, inclusive a linguagem visual.
 
 
-- **Pressuposições** - iniciar imaginando que o leitor já sabe algo, por exemplo, “como você já deve saber, o cuidado com a linguagem é crucial para qualidade de um material didático.” Para resolver essa situação, basta suprimir o primeiro trecho. Em contrapartida, você pode certamente resgatar conteúdos já apresentados anteriormente em um mesmo material/curso.
+- **Pressuposições** - iniciar imaginando que o leitor já sabe algo, por exemplo, "como você já deve saber, o cuidado com a linguagem é crucial para qualidade de um material didático.” Para resolver essa situação, basta suprimir o primeiro trecho. Em contrapartida, você pode certamente resgatar conteúdos já apresentados anteriormente em um mesmo material/curso.
 
 
-- **Uso excessivo da primeira pessoa do plural ou da terceira pessoa (formal)** - em alguns momentos, é oportuno utilizar a primeira pessoa do plural (nós) no intuito de promover a sensação de proximidade entre autor e leitor. Por exemplo, ao dizer “Até aqui <u>vimos</u> os diferentes tipos de linguagens”. Porém, também é importante lembrar que o leitor é um aprendente ativo no processo e precisa sentir isso por meio de tratamento pessoal. Por exemplo, “No tópico a seguir, <u>você verá</u> alguns princípios de design gráfico.” Veja que é diferente de dizer “No tópico a seguir, <u>veremos</u> alguns princípios do design gráfico.” Normalmente, se pondera em quais momentos se espera uma ação do leitor e, assim, utiliza-se uma fala direta ("você"), e, em quais momentos espera-se promover a sensação de que leitor e autor farão algo juntos (usando o "nós"). Além disso, há também o uso de terceira pessoa e da impessoalidade, que é comum em artigos acadêmicos nos quais buscamos passar credibilidade científica. Por exemplo, se disséssemos "No tópico a seguir, <u>serão apresentados</u> alguns princípios de design gráfico." Note como fica distante.
+- **Uso excessivo da primeira pessoa do plural ou da terceira pessoa (formal)** - em alguns momentos, é oportuno utilizar a primeira pessoa do plural (nós) no intuito de promover a sensação de proximidade entre autor e leitor. Por exemplo, ao dizer "Até aqui <u>vimos</u> os diferentes tipos de linguagens”. Porém, também é importante lembrar que o leitor é um aprendente ativo no processo e precisa sentir isso por meio de tratamento pessoal. Por exemplo, "No tópico a seguir, <u>você verá</u> alguns princípios de design gráfico.” Veja que é diferente de dizer "No tópico a seguir, <u>veremos</u> alguns princípios do design gráfico.” Normalmente, se pondera em quais momentos se espera uma ação do leitor e, assim, utiliza-se uma fala direta ("você"), e, em quais momentos espera-se promover a sensação de que leitor e autor farão algo juntos (usando o "nós"). Além disso, há também o uso de terceira pessoa e da impessoalidade, que é comum em artigos acadêmicos nos quais buscamos passar credibilidade científica. Por exemplo, se disséssemos "No tópico a seguir, <u>serão apresentados</u> alguns princípios de design gráfico." Note como fica distante.
 
-Ah! Uma dica: por mais que você esteja produzindo um material para diversas pessoas, na maior parte dos casos, soa mais próximo dizer “você” em vez de “vocês”. ;)
+Ah! Uma dica: por mais que você esteja produzindo um material para diversas pessoas, na maior parte dos casos, soa mais próximo dizer "você” em vez de "vocês”. ;)
 ```
 
 ```{admonition} Você precisa saber

@@ -1,15 +1,13 @@
 # Material de estudos | Produzindo e experimentando recursos educacionais
 
-Fonte: [Material de estudos | Produzindo e experimentando recursos educacionais](https://moodle.ead.ifsc.edu.br/mod/book/tool/print/index.php?id=82437)
-
 ```{toctree}
 :maxdepth: 1
 
 contexto.md
-principios-di.md
+principios-design-instrucional.md
 roteirizacao.md
 gamificacao.md
-principios-dg.md
+principios-design-grafico.md
 autoria.md
 encerramento.md
 referencias.md
